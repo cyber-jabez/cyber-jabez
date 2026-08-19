@@ -19,7 +19,7 @@
 
 I'm **Jabez Gabrielraj E**, a Computer Science student specializing in **Cybersecurity** at **Karunya Institute of Technology and Sciences**.
 
-Currently working as a **Cybersecurity Analyst Intern** at **ZyrOps LLP**, where I focus on Linux, cloud infrastructure, cybersecurity, and AI-powered systems.
+Recently completed **Cybersecurity Analyst Intern** at **ZyrOps LLP**, where I focus on Linux, cloud infrastructure, cybersecurity, and AI-powered systems.
 
 I enjoy designing software that is **secure, elegant, scalable, and practical**.
 
