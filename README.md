@@ -1,132 +1,110 @@
+<div align="center">
 
-# <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=JABEZ%20GABRIELRAJ%20E&fontColor=ffffff&fontSize=40&animation=fadeIn&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Linux%20%26%20Cloud%20Infrastructure%20%E2%80%A2%20AI%20Systems&descAlignY=68" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=JABEZ%20GABRIELRAJ%20E&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Cybersecurity%20•%20Linux%20•%20Cloud%20•%20AI&descAlignY=68"/>
-
-### *Building secure systems with thoughtful engineering.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+secure+systems+with+thoughtful+engineering.;Threat+detection%2C+malware+analysis+%26+cloud+security.;Linux+internals+%E2%80%A2+YARA+%E2%80%A2+AI-powered+defense.)](https://git.io/typing-svg)
 
 <p align="center">
-<a href="https://github.com/cyber-jabez"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jabez-gabrielraj-e"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:2008zpm@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://cyber-jabez.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A855F7"/></a>
+  <a href="https://linkedin.com/in/jabez-gabrielraj-e"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:2008zpm@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/cyber-jabez"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=3&section=footer"/>
 
 </div>
 
-## Hello.
+---
 
-I'm **Jabez Gabrielraj E**, a Computer Science student specializing in **Cybersecurity** at **Karunya Institute of Technology and Sciences**.
+## `whoami`
 
-Recently completed **Cybersecurity Analyst Intern** at **ZyrOps LLP**, where I focus on Linux, cloud infrastructure, cybersecurity, and AI-powered systems.
+I'm **Jabez Gabrielraj E**, a Computer Science undergraduate specializing in **Cybersecurity** at **Karunya Institute of Technology and Sciences**, and a **Cybersecurity Analyst Intern** at **ZyrOps LLP**.
 
-I enjoy designing software that is **secure, elegant, scalable, and practical**.
+I work at the intersection of **offensive/defensive security, Linux & cloud infrastructure, and applied AI**—building tools that detect threats, score risk, and automate security analysis.
 
 ---
 
-## Selected Work
+## Featured Engineering
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ AI Network Defense
-
-A reinforcement learning powered autonomous cyber defense simulation exploring intelligent threat detection.
+### 🛡️ [RazorShield AI](https://github.com/cyber-jabez/razorshield-ai)
+AI-powered transaction fraud detection & risk scoring platform built for the **Razorpay AI Risk Manager Buildathon**.
+<br/><sub>`TypeScript` • `Risk Scoring` • `Fraud Detection`</sub>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🌐 Premium Portfolio
-
-A modern portfolio inspired by Apple's design language with fluid motion and refined UI.
+### 🧬 [Sandbox Malware Analysis](https://github.com/cyber-jabez/sandbox-malware-analysis)
+Automated malware analysis environment with custom **YARA** rules for static & behavioral threat classification.
+<br/><sub>`YARA` • `Malware Analysis` • `Threat Intel`</sub>
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### ☁️ Cloud Labs
-
-Hands-on experiments with Docker, Linux servers, cloud platforms and automation.
+### 👁️ [Autonomous Vision Behaviour](https://github.com/cyber-jabez/HNX-INT-128-Autonomous-Vision-Behaviour-Understanding-)
+Computer vision system using temporal analysis to detect, track, and explain anomalous object behaviour with timestamped evidence clips.
+<br/><sub>`Python` • `Computer Vision` • `Anomaly Detection`</sub>
 
 </td>
+<td width="50%" valign="top">
 
-<td>
-
-### 🏴 CTF Journey
-
-Writeups, scripts and security research documenting my learning journey.
+### 🎣 [Phishing-Guard](https://github.com/cyber-jabez/Phishing-Guard) & [RiskRank](https://github.com/cyber-jabez/RiskRank)
+Python security tooling for automated phishing detection, URL/payload inspection, and quantitative risk ranking.
+<br/><sub>`Python` • `AppSec` • `Automation`</sub>
 
 </td>
 </tr>
 </table>
 
+> Also check out my [**F1 Pitwall Dashboard**](https://github.com/cyber-jabez/f1-pitwall-dashboard) (`TypeScript`) and [**Interactive Portfolio**](https://cyber-jabez.github.io/PORTFOLIO/).
+
 ---
 
-## Technology
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,linux,docker,git,github,gcp,html,css,js,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,ts,js,c,linux,docker,gcp,react,nextjs,tailwind,git,github,vscode&perline=7" />
 </p>
 
 ---
 
-## Experience
+## Experience & Focus
 
-### Cybersecurity Analyst Intern — ZyrOps LLP
+| Role / Program | Organization | Focus |
+| :--- | :--- | :--- |
+| **Cybersecurity Analyst Intern** | **ZyrOps LLP** | Security operations, Linux hardening, cloud infrastructure |
+| **B.Tech CS (Cybersecurity)** | **Karunya Institute of Technology and Sciences** | Systems security, cryptography, AI-driven defense |
 
-Working with modern security practices, Linux environments and cloud technologies while continuously expanding my practical cybersecurity skills.
-
-### B.Tech Computer Science (Cybersecurity)
-
-Karunya Institute of Technology and Sciences
-
----
-
-## Currently Exploring
-
-- Linux Internals
-- Offensive Security
-- Cloud Infrastructure
-- GPU Computing
-- Artificial Intelligence
-- Infrastructure Automation
+**Currently Exploring:** `Linux Internals` • `Offensive Security` • `Cloud Infrastructure` • `Malware & YARA` • `AI Security`
 
 ---
 
-## GitHub
+## GitHub Telemetry
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cyber-jabez&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-jabez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyber-jabez&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-jabez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
 </p>
 
----
-
-## Philosophy
-
-> Great engineering isn't about adding more.
->
-> It's about knowing what can be removed.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cyber-jabez&theme=midnight-purple&hide_border=true&background=00000000" />
+</p>
 
 ---
 
 <div align="center">
 
-### Let's Build Something Meaningful
+> *"Great engineering isn't about adding more. It's about knowing what can be removed."*
 
-<a href="https://github.com/cyber-jabez">GitHub</a> •
-<a href="https://linkedin.com/in/jabez-gabrielraj-e">LinkedIn</a> •
-<a href="mailto:2008zpm@gmail.com">Email</a>
+**Let's build something secure.**
 
-<br><br>
+[Portfolio](https://cyber-jabez.github.io/PORTFOLIO/) • [LinkedIn](https://linkedin.com/in/jabez-gabrielraj-e) • [Email](mailto:2008zpm@gmail.com)
 
-*Designed with simplicity. Crafted with purpose.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=90&section=footer" width="100%"/>
 
 </div>
