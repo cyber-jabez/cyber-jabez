@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Red, Gold & Black Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0A0A,35:7F1D1D,70:DC2626,100:D97706&text=JABEZ%20GABRIELRAJ%20E&fontColor=FACC15&fontSize=42&animation=twinkling&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Linux%20%26%20Cloud%20Infrastructure%20%E2%80%A2%20AI%20Systems&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0A0A,35:7F1D1D,70:DC2626,100:D97706&text=JABEZ%20GABRIELRAJ%20E&fontColor=FACC15&fontSize=42&animation=fadeIn&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Linux%20%26%20Cloud%20Infrastructure%20%E2%80%A2%20AI%20Systems&descAlignY=68" width="100%"/>
 
 <!-- Animated Gold Typing Subtitles -->
 <a href="https://cyber-jabez.github.io/PORTFOLIO/">
@@ -128,6 +128,6 @@ Python security tooling for automated phishing detection, URL/payload inspection
 [Portfolio](https://cyber-jabez.github.io/PORTFOLIO/) • [LinkedIn](https://linkedin.com/in/jabez-gabrielraj-e) • [Email](mailto:2008zpm@gmail.com)
 
 <!-- Animated Red, Gold & Black Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,35:7F1D1D,70:DC2626,100:D97706&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,35:7F1D1D,70:DC2626,100:D97706&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
