@@ -114,6 +114,12 @@ Python security tooling for automated phishing detection, URL/payload inspection
 </p>
 
 <p align="center">
+  <a href="https://github.com/cyber-jabez">
+    <img src="https://ghchart.rshah.org/cyber-jabez" alt="cyber-jabez's GitHub Contribution Grid" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-jabez&bg_color=0A0A0A&color=FACC15&line=DC2626&point=FACC15&area=true&area_color=991B1B&hide_border=true" width="100%" />
 </p>
 
